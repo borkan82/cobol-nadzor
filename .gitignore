@@ -1,0 +1,9 @@
+bin/
+work/
+*.o
+*.so
+tests/
+.gitlab-ci.yml
+Dockerfile
+Makefile
+README.md
